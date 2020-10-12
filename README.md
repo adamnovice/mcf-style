@@ -1,8 +1,7 @@
-# mcf-style
-
-# penginstallan
-$ pkg update && upgrade
-$ pkg install git bash -y
-$ pkg tonton video;v
-$ pkg like && pkg subscribe
-$ pkg share;v
+# mcf-style<p>
+<h3>penginstallan</h3>
+<br>$ pkg update && upgrade
+<br>$ pkg install git bash -y
+<br>$ pkg tonton video;v
+<br>$ pkg like && pkg subscribe
+<br>$ pkg share;v
